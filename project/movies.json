@@ -1,0 +1,18 @@
+[
+  {
+    "movie_name": "dangal",
+    "available_seats": 0
+  },
+  {
+    "movie_name": "dhurandhar",
+    "available_seats": 2
+  },
+  {
+    "movie_name": "dhurandhar2",
+    "available_seats": 100
+  },
+  {
+    "movie_name": "dangal2",
+    "available_seats": 90
+  }
+]
